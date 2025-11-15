@@ -1,86 +1,28 @@
+
 PlayStation 1 / PS1 / PSX Sites :
 
-Tentando acessar :
-https://psxplanet.ru/PlayStation-Games-0-9
-
-Atualmente :
-
-Download jogo :
-https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation/
-
-FanTranslation
-https://cdromance.org/psx-iso/?ep_filter_language=english-patched&sorted=alpha#!
-
-https://www.emulatorgames.net/roms/playstation/
-
-https://romsfun.com/roms/playstation/page/2/?keywords&type_ids%5B0%5D=9688&orderby=alphabet&order=asc 
-
-https://www.mediafire.com/folder/wp0p768bo6p7i/Resident_Evil_2_Dublado
-https://www.mediafire.com/folder/wp0p768bo6p7i/Resident%20Evil%202%20Dublado
-
-Outros :
-
-https://allvesgames.com/jogos-de-ps1-traduzidos-ou-dublados-em-portugues-lista/ ( tradução )
-
-https://www.blockfilestore.com/folder/58fc6bde-81aa-4426-83de-dceb8b2708c9
-
-https://canaltech.com.br/games/melhores-jogos-de-corrida-playstation-1/
-
-https://cavernagames.com/
-
-https://cdromance.org/psx-iso/
-
-https://www.cheatcodes.com/guide/eternal-eyes-faq-eternal-eyes-playstation-21196/
-
-https://bdjogos.com.br/console.php?id=7&g=10
-
-https://consolecopyworld.com/psx/psx_patches.shtml
-
-https://crocdb.net/
-
+Assembly
 https://ctftime.org/task/14356
-
-https://daddarulekonge.itch.io/?fbclid=IwY2xjawE2GVVleHRuA2FlbQIxMAABHSFhWl73gM5fqAm5FKNX3rRvR7nNELkiPskfaTIJDjmKksgAd2c2MY2joQ_aem_JVAm9hK-t5AsefZ_IB-23g
-
-https://demozoo.org/productions/?order=date&dir=desc&platform=13&production_type=&page=1
-
-https://dendi.my1.ru/load/igry_soniplejstejshn_1/5
-
-https://gbatemp.net/download/categories/game-saves.1471/
 
 https://gist.github.com/obskyr/99ce080f325bcc3d044f98fd90d447cb
 
-https://joao13traducoes.com/category/playstation-1/
+EternalEyes
+https://www.cheatcodes.com/guide/eternal-eyes-faq-eternal-eyes-playstation-21196/
 
-https://medium.com/@linhares.vinicius/entendendo-o-hello-world-pvsneslib-4a52968e22d1#:~:text=No%20SNES%20dependendo%20do%20modo,1%20e%20assim%20por%20diante.
+YGO_FM
+https://cavernagames.com/category/yu-gi-oh-forbidden-memories/
+
+SuperNintendo
+https://medium.com/@linhares.vinicius/entendendo-o-hello-world-pvsneslib-4a52968e22d1
 
 https://medium.com/@linhares.vinicius/guia-passo-a-passo-como-instalar-o-pvsneslib-para-desenvolver-jogos-para-super-nitendo-da66d078ad38
 
-http://www.mortalkombatshadows.comunidades.net/jogos-de-ps1
-
+PlayStation4
 https://mypst.com.br/
 
-https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation/?C=S&O=A
-
-http://onorisoft.free.fr/retro.htm?psx/psx.htm
-
-https://pscd.ru/ ( russo )
-
-https://pscd.ru/games/psx/a-ya/1399-enciklopediya-vooruzheniy.html
-
-https://pscd.ru/games/psx/a-ya/1381-skorostnaya-metodika-izucheniya-angliyskogo-yazyka-ilona-davydova.html ( jogo : Aprender Inglês )
-
-https://pscd.ru/games/psx/a-ya/1536-katalog-avtomobiley.html ( Jogo : Catálogo de Carros )
-
-https://pscd.ru/games/psx/a-ya/1289-shkolnyy-kurs-himii.html ( Jogo : Curso de Química Escolar )
-
-https://pscd.ru/games/psx/a-ya/1395-novyy-anglo-russkiy-slovar-vk-myuller.html ( Jogo : Dicionário Inglês Russo)
-
-https://pscd.ru/games/psx/a-ya/1399-enciklopediya-vooruzheniy.html ( Jogo : Enciclopédia Armamento Russo )
-
-https://pscd.ru/games/psx/a-ya/1538-bolshaya-medicinskaya-enciklopediya.html ( Jogo : Enciclopédia Médica )
-
 https://psnprofiles.com/SedutorDan?order=a-z
+
+outros
 
 https://www.psxdev.net/help/psyq_install.html
 

@@ -1,0 +1,97 @@
+Detonado de Hyperdimension Neptunia:
+
+Etapa 1: Aproveite e complete o jogo e obtenha o final normal
+Este jogo é extremamente diversificado e, reconhecidamente, requer muita paciência e determinação para se acostumar com o sistema de combate, criação de habilidades de combos/itens e personalização da forma de HDD, então seja paciente, embora seja possível alcançar todos os troféus em uma única jogada, não é algo que eu recomendaria. Você ficaria muito atolado em prestar atenção aos mínimos detalhes e se distrairia totalmente da história, além de lutar em algumas das masmorras mais difíceis.
+
+Para a primeira jogada, apenas jogue as coisas naturalmente, não se preocupe em morrer ou compartilhar. Concentre-se em aproveitar o jogo como ele é, familiarize-se com os controles indiscutivelmente estranhos do jogo e atinja um nível com o qual você será capaz de gerenciar confortavelmente a segunda jogada.
+
+Etapa 2: 
+comece um novo jogo Plus e tente desbloquear todos os eventos, masmorras e bestiário
+Este será o mais difícil e o maior trabalho do jogo. Simplesmente concentre-se no seguinte.
+Não deixe nenhuma Deusa morrer, se elas morrerem, “outras” ações aumentarão, o que pode levar ao bloqueio permanente de alguns eventos.
+Após cada evento da história, visite cada terra para ver se novos eventos paralelos estão disponíveis. Você precisará ver todos eles para alcançar 100% de conclusão do evento. Observe que alguns deles podem ser perdidos.
+Para cada masmorra relacionada à história, consulte os monstros perdíveis encontrados em 0e8a5f.png Histoire Enthusiast para ter certeza de não perder nenhum monstro perdível. Tudo isso é necessário para completar 100% do bestiário.
+Complete todas as masmorras secundárias (excluindo DLC). Observe que você precisará vencer o jogo novamente para desbloquear algumas dessas masmorras, então vença o jogo novamente para desbloqueá-las. Você também pode recrutar as 3 deusas antes ou depois da conclusão desta etapa.
+
+Estágio 3: 
+Recrute as Deusas e Obtenha o Verdadeiro Final
+Recrute todas as 3 deusas e derrote o chefe final novamente. Então volte e comece a trabalhar em 0e8a5f.png Histoire Enthusiast novamente.
+
+Etapa 4: Limpeza
+Obtenha todos os troféus diversos que você ainda não tenha conseguido e então concentre-se na limpeza do 0e8a5f.png Histoire Enthusiast e obtenha o troféu de platina.
+
+Em geral
+No jogo você pretende completar 100%, NÃO DEIXE UMA DEUSA MORRER. Isso aumentará as ações "Outras" (ou seja, da Arfoire) que você está permanentemente impedido de recuperar. Permitir que a morte das 4 deusas aconteça muitas vezes resultará em você ser potencialmente excluído de masmorras e eventos.
+Não tenha medo de experimentar habilidades combinadas, elas estão lá para você fazer isso. Às vezes, experimentar isso pode ajudá-lo a superar certas masmorras/inimigos/lutas de chefes nas quais você estava preso anteriormente.
+Não fique sem itens. É uma sensação muito ruim perceber que você está em uma luta intensa contra um chefe e não tem reflexos suficientes para executar uma habilidade de item que potencialmente salvaria sua vida.
+Verifique todas as massas de terra frequentemente para novos eventos, etc.
+Nada é específico da dificuldade; se as coisas forem muito difíceis, basta descer para fácil. As lutas podem demorar mais, mas você pode acabar economizando tempo em vez de tentar ter sorte em um inimigo ou no modo difícil.
+Se possível, tente não comprar acessórios ou armas muito caros na loja até que Gust se junte ao seu grupo, você economizará 30%.
+
+Novo jogo +
+Todos os níveis de personagem são mantidos
+Todos os itens, armas e acessórios comprados e encontrados são seus, bastando reequipá-los.
+Quaisquer Ranks S obtidos em masmorras secundárias serão mantidos.
+Todos os eventos opcionais perdíveis e monstros perdíveis enfrentados em jogos anteriores serão mantidos.
+Pressione Quadrado para pular cenas que você já viu antes.
+
+Masmorras
+Use o método salvar-recarregar para passar pelas masmorras mais rapidamente, bem como usá-lo para extrair monstros específicos necessários para a conclusão da masmorra. ou seja, execute algumas etapas, salve e carregue o arquivo salvo novamente.
+Para masmorras relacionadas à história, esteja ciente dos monstros que podem ser perdidos.
+Os objetivos das masmorras geralmente estão localizados ao longo de caminhos distantes do ponto de partida, e não em becos sem saída próximos.
+Na maioria das vezes, os baús de tesouro não valem o seu tempo; se você está indo para o Rank S, não se preocupe em obtê-los.
+
+Ações
+Os compartilhamentos são essencialmente quantos seguidores cada Deusa tem. O jogo em si não faz nenhum esforço para explicar as ações ao jogador em qualquer ponto do jogo, como se elas quase não importassem, então vou explicá-las a você.
+
+Compartilhamentos são quantos seguidores uma Deusa tem. Eles são mostrados como um gráfico de barras horizontais que pode ser visualizado após Nisa entrar no seu grupo. Existem 5 grupos de compartilhamento diferentes.
+Planeptuno
+Caixa Lean
+Duração
+Lowee
+Outro (Arfoire)
+
+Cada masmorra opcional alterará as partilhas entre uma massa de terra e outra. Ou seja se você completar uma masmorra em Planeptune, Planeptune aumentará suas parcelas, mas retirará suas parcelas de outra massa de terra, diminuindo assim as participações gerais dessa massa de terra. Se você sair, deixe uma Deusa morrer ou não conseguir completar uma masmorra. Outras parcelas aumentarão, estas nunca poderão ser obtidos novamente, o que significa que eles estão permanentemente perdidos.
+
+Você pode verificar os efeitos de cada masmorra nos compartilhamentos atuais passando o mouse sobre ela no mapa Explorar. Você pode precisar completar a mesma masmorra diversas vezes para aumentar as parcelas de uma massa de terra para aproximadamente 50% do total de parcelas.
+
+Subindo de nível
+Subir de nível neste jogo contra a maioria dos monstros é um processo extremamente tedioso e demorado. As únicas vezes em que você aumentará de nível será derrotando chefes e lutando contra inimigos que podem ser convocados usando a habilidade de chamada de monstros de Compa em círculos de invocação roxos chamados "Cliones". Além desses dois métodos, obter XP e subir de nível é extremamente desafiador. A melhor maneira de manter um nível saudável antes do pós-jogo é acumular muita experiência, dando Cliones e derrotando chefes do enredo.
+
+Bestiary Missable Monsters :
+Monster Name	Location Found
+Nebiros	Bruagga Tower- Inside a Disc
+Ogre	Dis Snow Forest- Big Forest's Edge
+Killer Rabbit	Evil Cave- Suspicious Cave
+Ice Fenrir	Dis Snow Forest- Monster Forest
+Behemoth	Maado Forest- Hero Shrine's Forest
+Revenant 	Bruagga Tower- Invaded Tower
+Griffon	Maado Forest- Hero Shrine's Forest
+Chimera	Challenge Cave- Abandoned Mine & Challenge Cave
+Garuda	Remnant Tower- Abandoned Tower
+Demon Lord	Bruagga Tower- Inside a Disc
+Vampire Bat	Challenge Cave- Abandoned Mine & Challenge Cave - Den by the Railroad
+Manticore	Norma Tower- Goddess-Only Path
+Choocoboo	Evil Cave- Old Mining Area
+Green Lurian	Dis Snow Forest- Forest in Snow
+Red Lurian	Maado Forest- Hero Shrine's Forest
+Bean Sidhe	Sealed Ruin- Closed Holy Ground - Lastation
+Banshee	Evil Cave- Old Mining Area
+Shadow Dragon	Evil Cave- Old Mining Area
+God Dragon	Challenge Cave- Kuterogi's Cave
+Orthrus	Challenge Cave- Den by the Railroad & Challenge Cave - Evil Nest
+Cerberus	Sealed Ruin- Closed Holy Ground - Lastation
+Serpent	Stella Mines- Old Trading Way
+Demon Vine	Norma Tower- Goddess-Only Path
+Dullahan	Hirooi Castle- Basilicom Entrance & Micro Park- Basilicom Entrance
+Gunner	Mega Storage 3- Monster Storage
+Dark Cobra	Remnant Tower- Abandoned Tower
+Rabbit	Sealed Ruin- Closed Holy Ground - Lowee
+Hell Viper	Mega Storage 3- Monster Storage
+Killer Bat	Hirooi Castle- Basilicom Entrance, Norma Tower- Goddess-Only Path & Micro Park- Basilicom Entrance
+Ariadne	Remnant Tower- Abandoned Tower
+Butterfly	Remnant Tower- Abandoned Tower
+Daeva	Hirooi Castle- Basilicom Entrance & Micro Park
+Physalis	Hirooi Castle- Basilicom Entrance & Micro Park
+Terrain Worm	Challenge Cave- Cave to Wasteland
+Arfoire	Final Boss on Normal Ending Route
